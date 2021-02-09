@@ -1,5 +1,8 @@
-#whatsapp-bot
+### whatsapp bot 
 thanks to nurutomo
+
+### SOSMED 
+whatsapp: [`Click Here`](https://wa.me/6283856085455)
 
 
 
