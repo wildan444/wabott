@@ -13,9 +13,9 @@ whatsapp: [`Click Here`](https://wa.me/6283856085455)
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Nurutomo/wabot-aq
-> cd wabot-aq
-> npm install
+> git clone https://github.com/rynz01/rybot
+> cd rybot
+> npm i
 ```
 ###### Run
 ```bash
