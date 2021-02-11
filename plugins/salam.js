@@ -22,7 +22,7 @@ function pickRandom(list) {
 
 
 global.salam = [
-"waalaikumsalam'',
+"waalaikumsalam",
 "waalaikumsalam kak",
 "iya waalaikumsalam",
 "waalaikumsalam ^-^",
