@@ -49,7 +49,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       'owner': '𝗢𝘄𝗻𝗲𝗿 𝗺𝗲𝗻𝘂',
       'host': '𝗛𝗼𝘀𝘁',
       'info': '𝗜𝗻𝗳𝗼',
-      '': 'No Category',
+
     }
     for (let plugin of Object.values(global.plugins))
       if (plugin && 'tags' in plugin)
