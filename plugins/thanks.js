@@ -22,7 +22,7 @@ function pickRandom(list) {
 
 
 global.thanks = [
-"Iya sama sama kak"
+"Iya sama sama kak",
 "Sama sama kakak",
 "Hooh sama sama",
 "Iya sama sama",
